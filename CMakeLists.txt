@@ -1,7 +1,7 @@
 #
 #
 #
-project (embedded_junk)
+project (embedded_junk C CXX ASM)
 cmake_minimum_required(VERSION 3.13)
 
 
