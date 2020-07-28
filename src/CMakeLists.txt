@@ -13,6 +13,8 @@ add_executable(sum02 sum02.s)
 add_executable(load01 load01.s)
 add_executable(store01 store01.s)
 add_executable(compare01 compare01.s)
+add_executable(loop01 loop01.s)
+add_executable(collatz collatz.s)
 
 
 # add_executable(code0 code0.s)
