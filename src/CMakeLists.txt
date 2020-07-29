@@ -5,6 +5,7 @@
 add_executable(sizeof sizeof.c)
 add_executable(sizeof_cc sizeof.cpp)
 add_executable(exit_code exit_code.c)
+add_executable(exit_code_s exit_code_s.s)
 
 add_executable(first first.s)
 # set_target_properties(first PROPERTIES LINKER_LANGUAGE C)
@@ -15,6 +16,6 @@ add_executable(store01 store01.s)
 add_executable(compare01 compare01.s)
 add_executable(loop01 loop01.s)
 add_executable(collatz collatz.s)
-
+add_executable(array01 array01.s)
 
 # add_executable(code0 code0.s)
